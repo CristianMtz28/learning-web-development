@@ -44,3 +44,5 @@ elementos incluso un arreglo dentro de otro arreglo*/
 
 /*Comentario desde la Mac pero desde una carpeta de trabajo
 y no desde OneDrive */
+
+/*Comentario desde la iMac 27" */
