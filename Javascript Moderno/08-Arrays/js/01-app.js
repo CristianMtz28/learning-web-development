@@ -41,3 +41,6 @@ elementos incluso un arreglo dentro de otro arreglo*/
 /*Comentario desde MacBook Air M4"*/
 /*Comentario desde la Windows HP*/
 /*Segun yo ya después de esto no debería aparecerme nada en la MacBook Air M4"*/
+
+/*Comentario desde la Mac pero desde una carpeta de trabajo
+y no desde OneDrive */
