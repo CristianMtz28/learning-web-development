@@ -36,15 +36,4 @@ const deTodo = ['Hola Mundo', 10, true, "sí", null, {nombre: 'Criss', trabajo: 
 console.log(deTodo);
 
 /*En un arreglo podemos tener todos estos datos sin ningún problema. Podemos pensarla como una variable que puede tener multiples
-elementos incluso un arreglo dentro de otro arreglo*/
-
-/*Comentario desde MacBook Air M4"*/
-/*Comentario desde la Windows HP*/
-/*Segun yo ya después de esto no debería aparecerme nada en la MacBook Air M4"*/
-
-/*Comentario desde la Mac pero desde una carpeta de trabajo
-y no desde OneDrive */
-
-/*Comentario desde la iMac 27" */
-
-/*Comentario desde la Windows */
+elementos incluso un arreglo dentro de otro arreglo.*/
