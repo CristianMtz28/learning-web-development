@@ -46,3 +46,5 @@ elementos incluso un arreglo dentro de otro arreglo*/
 y no desde OneDrive */
 
 /*Comentario desde la iMac 27" */
+
+/*Comentario desde la Windows */
