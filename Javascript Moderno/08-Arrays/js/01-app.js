@@ -39,3 +39,4 @@ console.log(deTodo);
 elementos incluso un arreglo dentro de otro arreglo*/
 
 /*Comentario desde MacBook Air M4"*/
+/*Comentario desde la Windows HP*/
