@@ -37,3 +37,5 @@ console.log(deTodo);
 
 /*En un arreglo podemos tener todos estos datos sin ningún problema. Podemos pensarla como una variable que puede tener multiples
 elementos incluso un arreglo dentro de otro arreglo.*/
+
+/*Prueba para el futuro */
