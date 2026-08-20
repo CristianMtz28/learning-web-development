@@ -31,11 +31,9 @@ console.log(meses);
 
 //Un arreglo que contiene dato de todo tipo
 
-const deTodo = ['Hola Mundo', 10, true, "sí", null, {nombre: 'Criss', trabajo: 'Dar lastima'}, [10,20]];
+const deTodo = ['Hola Mundo', 10, true, "sí", null, {nombre: 'Criss', trabajo: 'Prgramador'}, [10,20]];
 
 console.log(deTodo);
 
 /*En un arreglo podemos tener todos estos datos sin ningún problema. Podemos pensarla como una variable que puede tener multiples
 elementos incluso un arreglo dentro de otro arreglo.*/
-
-/*Prueba para el futuro */

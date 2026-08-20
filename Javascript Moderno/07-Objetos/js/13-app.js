@@ -9,7 +9,7 @@ const producto = {
 }
 
 
-console.log(Object.keys(producto)); /*Este nso devuelve las llaves/propiedades de nuestro objeto
+console.log(Object.keys(producto)); /*Este nos devuelve las llaves/propiedades de nuestro objeto
 en pocas palabras el nombre, precio y disponible en forma de arreglo, pero sin los valores, solo nos
 devuelve la llave del objeto, nada más esto nos puede ayudar para saber
 si un objeto esta vacio o que llaves posee*/
