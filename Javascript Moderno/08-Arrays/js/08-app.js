@@ -43,3 +43,11 @@ const [ , , , tercerPosicion, , numero60] = numeros2;
 
 console.log(tercerPosicion); //Aquí imprimimos lo que esta en la tercer posición en este caso 40
 console.log(numero60);
+
+/*También va a ser muy común que querramos el primer y el segundo valor y que el resto de elementos esten en su 
+propio arreglo */
+
+const numeros3 = [10, 20, 30, 40, 50, 60];
+const [primer, segundo, ...tercero] = numeros3;
+
+console.log(tercero); //Aquí se imprimiría 30, 40, 50 y 60 en su propio arreglo
